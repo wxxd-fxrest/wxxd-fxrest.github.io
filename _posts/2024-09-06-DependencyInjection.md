@@ -171,5 +171,5 @@ public class BeanFactory {
 <br/>
 
 > **Reference**  
-1. <a href="https://mangkyu.tistory.com/150" style="text-decoration: none; color: #757575;">Spring] 의존성 주입(Dependency Injection, DI)이란? 및 Spring이 의존성 주입을 지원하는 이유</a>
+1. <a href="https://mangkyu.tistory.com/150" style="text-decoration: none; color: #757575;">[Spring] 의존성 주입(Dependency Injection, DI)이란? 및 Spring이 의존성 주입을 지원하는 이유</a>
 2. <a href="https://tecoble.techcourse.co.kr/post/2021-04-27-dependency-injection/" style="text-decoration-line: none; color: #757575;"> 의존관계 주입(Dependency Injection) 쉽게 이해하기 </a>
