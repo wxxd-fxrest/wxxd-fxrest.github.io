@@ -29,7 +29,7 @@ tags:
 <br/>
 
 ### MongoDB
-- **비관계형 데이터베이스**: MongoDB는 NoSQL 데이터베이스로, **JSON과 유사한 BSON 형식으로 데이터를 저장**한다. 데이터는 문서(Document) 형태로 저장되며, 스키마가 유연하다.
+- <a href="http://wxxd-fxrest.github.io/posts/RelationalandNoRelational/" style="text-decoration-line: none; font-weight: bold;">비관계형 데이터베이스</a>: MongoDB는 NoSQL 데이터베이스로, **JSON과 유사한 BSON 형식으로 데이터를 저장**한다. 데이터는 문서(Document) 형태로 저장되며, 스키마가 유연하다.
 - **비정형 데이터**: 데이터 구조가 유동적이어서, 서로 다른 형식의 데이터를 같은 컬렉션(Collection)에 저장할 수 있다.
 
 <br/>

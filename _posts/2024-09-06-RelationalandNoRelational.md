@@ -1,5 +1,5 @@
 ---
-title: 관계형 데이터베이스와 비관계형 데이터베이스
+title: 관계형 데이터베이스(SQL)와 비관계형 데이터베이스(NoSQL)
 date: 2024-09-06 20:03:00 +09:00
 categories: [데이터베이스(Database), SQL(Structured Query Language)]
 tags:
@@ -25,7 +25,7 @@ tags:
 
 ## 1. 관계형 데이터베이스
 ### 1.1 정의
-관계형 데이터베이스는 **데이터를 테이블 형태로 저장**하며, 각 테이블은 행(레코드)과 열(속성)로 구성된다. 이 데이터베이스는 SQL(Structured Query Language)을 사용하여 데이터를 정의한다.  
+관계형 데이터베이스는 **데이터를 테이블 형태로 저장**하며, 각 테이블은 행(레코드)과 열(속성)로 구성된다. 이 데이터베이스는 <a href="http://wxxd-fxrest.github.io/posts/SQLandMySQL/" style="text-decoration-line: none; color: #0550ae; font-weight: bold;">SQL(Structured Query Language)</a>을 사용하여 데이터를 정의한다.  
 
 <br/>
 
@@ -60,7 +60,7 @@ tags:
 ### 2.2 특징
 - **유연한 데이터 모델**: 비관계형 데이터베이스는 스키마가 없어 데이터 구조를 자유롭게 변경할 수 있으며, 이는 다양한 형식의 데이터를 저장하는 데 유리하다.
 - **수평 확장성**: 데이터가 분산되어 저장될 수 있어, 수평적으로 쉽게 확장할 수 있다. 이는 대규모 데이터 처리에 강점을 가진다.
-- **다양한 저장 방식**: 비관계형 데이터베이스는 여러 종류가 있으며, 각기 다른 저장 방식을 제공한다. 예를 들어, 문서형 데이터베이스(MongoDB), 키-값 저장소(Redis), 그래프 데이터베이스(Neo4j) 등이 있다.  
+- **다양한 저장 방식**: 비관계형 데이터베이스는 여러 종류가 있으며, 각기 다른 저장 방식을 제공한다. 예를 들어, 문서형 데이터베이스(<a href="http://wxxd-fxrest.github.io/posts/MySQLandMongoDB/" style="text-decoration-line: none; color: #0550ae; font-weight: bold;"> MongoDB </a>), 키-값 저장소(Redis), 그래프 데이터베이스(Neo4j) 등이 있다.  
 
 <br/>
 
