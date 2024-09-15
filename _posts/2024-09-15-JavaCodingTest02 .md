@@ -7,13 +7,11 @@ tags:
     코딩테스트,
     CodingTest,
     Programmers,
-    ArrayList, 
-    repeat(), 
-    toCharArray(), 
-    isUpperCase(), 
-    toLowerCase(), 
-    toUpperCase(), 
-    이스케이프 시퀀스
+    문자열 섞기,
+    문자 리스트를 문자열로 변환하기,
+    문자열 곱하기,
+    더 크게 합치기,
+    두 수의 연산값 비교하기,
   ]
 ---
 
