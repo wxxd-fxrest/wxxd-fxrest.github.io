@@ -25,7 +25,7 @@ tags:
 
 # Day04
 ## n의 배수
-> 문제  
+> **문제**  
 정수 num과 n이 매개 변수로 주어질 때, num이 n의 배수이면 1을 return n의 배수가 아니라면 0을 return하도록 solution 함수를 완성해주세요.  
 
 ```java
@@ -44,7 +44,7 @@ class Solution {
 <br/>
 
 ## 공배수
-> 문제  
+> **문제**  
 정수 number와 n, m이 주어집니다. number가 n의 배수이면서 m의 배수이면 1을 아니라면 0을 return하도록 solution 함수를 완성해주세요.  
 
 ```java
@@ -64,7 +64,7 @@ class Solution {
 <br/>
 
 ## 홀짝에 따라 다른 값 반환하기
-> 문제  
+> **문제**  
 양의 정수 n이 매개변수로 주어질 때, n이 홀수라면 n 이하의 홀수인 모든 양의 정수의 합을 return 하고 n이 짝수라면 n 이하의 짝수인 모든 양의 정수의 제곱의 합을 return 하는 solution 함수를 작성해 주세요.  
  
 ```java
@@ -96,7 +96,7 @@ class Solution {
 <br/>
 
 ## 조건 문자열
-> 문제  
+> **문제**  
 문자열에 따라 다음과 같이 두 수의 크기를 비교하려고 합니다.
 - 두 수가 `n`과 `m`이라면
     - ">", "=" : `n` >= `m`
@@ -131,7 +131,7 @@ class Solution {
 <br/>
 
 ## flag에 따라 다른 값 반환하기
-> 문제  
+> **문제**  
 두 정수 a, b와 boolean 변수 flag가 매개변수로 주어질 때, flag가 true면 a + b를 false면 a - b를 return 하는 solution 함수를 작성해 주세요.  
  
 ```java
@@ -150,7 +150,7 @@ class Solution {
 
 # Day04
 ## 코드 처리하기
-> 문제  
+> **문제**  
 문자열 `code`가 주어집니다.
 `code`를 앞에서부터 읽으면서 만약 문자가 "1"이면 `mode`를 바꿉니다. `mode`에 따라 `code`를 읽어가면서 문자열 `ret`을 만들어냅니다.
 `mode`는 0과 1이 있으며, `idx`를 0 부터 `code의 길이 - 1` 까지 1씩 키워나가면서 `code[idx]`의 값에 따라 다음과 같이 행동합니다.
@@ -202,7 +202,7 @@ public class Solution {
 <br/>
 
 ## 등차수열의 특정한 항만 더하기
-> 문제  
+> **문제**  
 두 정수 a, d와 길이가 n인 boolean 배열 included가 주어집니다. 첫째항이 a, 공차가 d인 등차수열에서 included[i]가 i + 1항을 의미할 때, 이 등차수열의 1항부터 n항까지 included가 true인 항들만 더한 값을 return 하는 solution 함수를 작성해 주세요.  
  
 ```java
@@ -227,7 +227,7 @@ class Solution {
 <br/>
 
 ## 주사위 게임 2
-> 문제  
+> **문제**  
 1부터 6까지 숫자가 적힌 주사위가 세 개 있습니다. 세 주사위를 굴렸을 때 나온 숫자를 각각 `a`, `b`, `c`라고 했을 때 얻는 점수는 다음과 같습니다.
 - 세 숫자가 모두 다르다면 `a` + `b` + `c` 점을 얻습니다.
 - 세 숫자 중 어느 두 숫자는 같고 나머지 다른 숫자는 다르다면 (`a` + `b` + `c`) × (`a` + `b` + `c` )점을 얻습니다.
@@ -264,7 +264,7 @@ class Solution {
 <br/>
 
 ## 원소들의 곱과 합
-> 문제  
+> **문제**  
 정수가 담긴 리스트 num_list가 주어질 때, 모든 원소들의 곱이 모든 원소들의 합의 제곱보다 작으면 1을 크면 0을 return하도록 solution 함수를 완성해주세요.  
  
 ```java
@@ -292,7 +292,7 @@ class Solution {
 <br/>
 
 ## 이어 붙인 수
-> 문제  
+> **문제**  
 정수가 담긴 리스트 num_list가 주어집니다. num_list의 홀수만 순서대로 이어 붙인 수와 짝수만 순서대로 이어 붙인 수의 합을 return하도록 solution 함수를 완성해주세요.  
  
 ```java
@@ -333,6 +333,3 @@ class Solution {
 - 결과 반환: 홀수와 짝수의 합을 반환 
     - `return oddSum + evenSum;`
 
-<br/>
-* * *
-<br/>
