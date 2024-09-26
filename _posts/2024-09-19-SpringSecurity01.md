@@ -113,4 +113,4 @@ public class SecurityConfig {
 <br/>
 
 > **Reference**  
-1. <a href="https://www.youtube.com/playlist?list=PLJkjrxxiBSFCKD9TRKDYn7IE96K2u3C3U" style="text-decoration: none; color: #757575;">스프링 시큐리티</a>
+<a href="https://www.youtube.com/playlist?list=PLJkjrxxiBSFCKD9TRKDYn7IE96K2u3C3U" style="text-decoration: none; color: #757575;">스프링 시큐리티</a>

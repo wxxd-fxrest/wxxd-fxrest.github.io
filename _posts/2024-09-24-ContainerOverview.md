@@ -8,7 +8,6 @@ tags:
     Java,
     Spring 공식문서,
     Container Overview,
-    Bean 정의,
   ]
 ---
 
@@ -407,3 +406,14 @@ context.refresh();
 - **Groovy 구성**: Groovy를 사용하여 Bean을 정의하고 구성할 수 있으며, XML과 유사한 방식으로 진행.
 - **GenericApplicationContext**: 다양한 형식의 Bean 정의를 읽고 처리할 수 있는 유연한 구조.
 - **의존성 주입**: Spring의 자동 주입 기능을 활용하여 애플리케이션 코드에서 Spring API에 대한 의존성을 줄이는 것이 바람직.  
+
+<br/>
+<br/>
+<br/>
+* * *
+<br/>
+<br/>
+<br/>
+
+> **Reference**  
+<a href="https://docs.spring.io/spring-framework/reference/core/beans/basics.html" style="text-decoration: none; color: #757575;">Container Overview</a>
